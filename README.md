@@ -1,7 +1,11 @@
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
+
 
 <h1 align="center">Hi 👋, I'm Anup pandey</h1>
-<h3 align="center">A Full-stack web developer from Kolkata,India</h3>
+<h3 align="center">A Full-stack web developer from Kolkata,India</h3><br/> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="1000" height="500"/>
+
+<h2 align="center">"Make it work",make it right,make it fast."</h2>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuppandey009&label=Profile%20views&color=0e75b6&style=flat" alt="anuppandey009" /> </p>
 

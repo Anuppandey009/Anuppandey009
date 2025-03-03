@@ -9,16 +9,27 @@
 <div size='20px'> Hi! My name is Anup. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me </h2>
+<h2 style="font-size: 2rem; color: #2c3e50;">🚀 About Me</h2>
 
-<img width="50%" align="right" alt="Github" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" />
+<img width="45%" align="right" alt="Github" 
+     src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" 
+     style="border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);" />
 
+<p style="font-size: 1.1rem; color: #34495e; line-height: 1.6;">
+    I am a <strong>results-driven Backend Engineer</strong> with <strong>3+ years of experience</strong> in designing and implementing 
+    <strong>scalable, high-performance web applications</strong>. My expertise lies in architecting robust backend solutions, 
+    optimizing system performance, and ensuring seamless end-user experiences.
+</p>
 
-- 🔭 Intrigued to learn new technologies in Web Development.
+<p style="font-size: 1.1rem; color: #34495e; line-height: 1.6;">
+    Proficient in <strong>modern backend technologies</strong>, <strong>microservices architecture</strong>, and <strong>system scalability</strong>, 
+    I am passionate about continuous learning and staying ahead of industry trends to drive innovation and future-proof development. 
+</p>
 
-- 🌱 I am currently working as a Backend Developer with over three years of experience.
-
-- 💞️ I like to watch tech. videos and playing video games more often.
+<p style="font-size: 1.1rem; color: #34495e; line-height: 1.6;">
+    My skill set includes <strong>API development, database design</strong>, and crafting <strong>clean, efficient, and maintainable code</strong> 
+    that aligns with industry best practices.
+</p>
 
 <!-- - 💬 Have a look at my [portfolio](https://dev-Anup.netlify.app/). -->
 

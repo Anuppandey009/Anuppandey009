@@ -16,7 +16,7 @@
 
 - 🔭 Intrigued to learn new technologies in Web Development.
 
-- 🌱 I’m Currently learning MERN stack at MASAI school.
+- 🌱 I am currently working as a Backend Developer with over three years of experience.
 
 - 💞️ I like to watch tech. videos and playing video games more often.
 
